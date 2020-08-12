@@ -56,7 +56,7 @@ MetaSim2.0 build system is based on CMake, the cross-platform,
 open-source build system.  To compile MetaSim2.0 you must have CMake
 (ver. >= 2.6) installed on your machine.
 
-If you altready have CMake installed on your machine you can skip the
+If you already have CMake installed on your machine you can skip the
 following section and jump to section 3.2.
 
 ### 3.1. Installing CMake
